@@ -13,6 +13,15 @@ This project is a simple command-line assistant that helps you evaluate decision
 - Built using the [LangGraph](https://github.com/langchain-ai/langgraph) framework.
 - Clean, interactive command-line interface.
 
+
+## Technologies Used
+
+Python
+
+LangGraph
+
+OpenAI Python SDK
+
 ## Example
 
 ```bash
@@ -71,13 +80,7 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 
 python main.py
 
-Technologies Used
 
-Python
-
-LangGraph
-
-OpenAI Python SDK
 
 
 ---
