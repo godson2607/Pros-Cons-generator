@@ -80,13 +80,5 @@ LangGraph
 OpenAI Python SDK
 
 
-License
-
-This project is licensed under the MIT License.
-
-Author
-
-[Your Name] — Feel free to connect or contribute!
-
 ---
 .
